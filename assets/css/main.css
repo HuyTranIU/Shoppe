@@ -163,9 +163,6 @@
     padding-left: 0px;
 }
 
-.header__notify-item {
-
-}
 
 .header__notify-item:hover {
     background-color: #f7f7f7;
@@ -267,9 +264,6 @@
     border-color: #888;
 }
 
-.auth-form__aside {
-    
-}
 
 .auth-form__policy-text {
     font-size: 1.4rem;
@@ -966,10 +960,6 @@
 
 
 
-.select-input__label {
-    
-}
-
 .home-filter__page {
     display: flex;
     align-items: center;
@@ -1091,9 +1081,7 @@
     cursor: pointer;
 }
 
-.home-product-item__like-icon-empty {
 
-}
 
 i.home-product-item__like-icon-fill {
     display: none;
@@ -1135,13 +1123,6 @@ i.home-product-item__like-icon-fill {
     padding-bottom: 10px;
 }
 
-.home-product-item__barnd {
-
-}
-
-.home-product-item__origin-name {
-
-}
 
 .home-product-item__favourit {
     position: absolute;
